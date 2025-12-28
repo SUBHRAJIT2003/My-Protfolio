@@ -1,0 +1,14 @@
+   
+
+header{
+    text-align: center;
+    text-overflow: clip;
+    color: rgb(35, 86, 86);
+    text: shadow 4px;
+    text-box: calc(20%);
+
+}
+nav{
+    column-gap: normal;
+    row-gap: inherit;
+}
